@@ -1,0 +1,93 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+    text-align: center;
+    margin: 100px 50px;
+}
+
+.calc{
+    width: 500px;
+    text-align: center;
+    
+}
+
+.result{
+    background-color: #222222 !important;
+    height: 75px;    
+}
+table{
+    border-collapse: collapse;
+}
+
+td{
+    border: 2px solid #222222;
+}
+
+.vis{
+    opacity: 0;
+}
+
+
+.op{
+    background-color: lightsalmon !important;
+    height: 45px;
+    
+}
+.num1{
+    background-color: lightgray !important;
+    height: 45px;
+}
+.num2{
+    background-color: lightgray !important;
+    height: 45px;
+}
+.num3{
+    background-color: lightgray !important;
+    height: 45px;
+}
+
+.clear{
+    background-color: red !important;
+    height: 45px;
+    font-size: 25px;
+}
+
+.eq{
+    background-color: lightgreen !important;
+}
+
+span{
+    margin: 50px;
+    font-size: 25px;  
+}
+
+table{
+    font-size: 20px;
+}
+
+thead tr{
+        background-color: lightsalmon !important;
+        height: 45px;   
+    }
+
+tbody tr{
+    background-color: lightgray !important;
+    height: 45px;
+}    
+
+.cl {
+    background-color: lightgreen;
+}
+
+.res{
+    background-color: #222222 !important;
+    height: 75px;
+}
+
+#r1{
+    color: white;
+    transform: scale(2);
+}
+
